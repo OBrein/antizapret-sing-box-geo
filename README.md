@@ -14,5 +14,5 @@ Project currently consists from two utilities:
 - `githubreleaser` -- utility to create release and upload assets.
 
 You can download the latest `geoip.db` and `geosite.db` here:
-- https://github.com/L11R/antizapret-sing-geosite/releases/latest/download/geoip.db
-- https://github.com/L11R/antizapret-sing-geosite/releases/latest/download/geosite.db
+- https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geoip.db
+- https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geosite.db
