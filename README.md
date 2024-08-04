@@ -19,8 +19,8 @@ Project currently consists from two utilities:
 
 You can download the latest `antizapret.srs`, `geoip.db` and `geosite.db` here:
 - https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/antizapret.srs
-- https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/geoip.db
-- https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/geosite.db
+- https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geoip.db
+- https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geosite.db
 
 **UPD.** Sorry, around April 6 2024 the links broke, I restored them today, April 12.
 
