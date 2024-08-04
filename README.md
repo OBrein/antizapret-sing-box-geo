@@ -18,7 +18,7 @@ Project currently consists from two utilities:
 - `githubreleaser` -- utility to create release and upload assets.
 
 You can download the latest `antizapret.srs`, `geoip.db` and `geosite.db` here:
-- https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/antizapret.srs
+- https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/antizapret.srs
 - https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geoip.db
 - https://github.com/OBrein/antizapret-sing-box-geo/releases/latest/download/geosite.db
 
